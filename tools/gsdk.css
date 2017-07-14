@@ -1771,9 +1771,9 @@ input.ct-red + span + label + span.switch-right {
       -ms-transform: translate3d(-230px, 0, 0);
       transform: translate3d(-230px, 0, 0); }
   .navbar .navbar-collapse.collapse,
-  .navbar .navbar .navbar-collapse.collapse.in,
+  /*.navbar .navbar .navbar-collapse.collapse.in,
   .navbar .navbar .navbar-collapse.collapsing {
-    display: none !important; }
+    display: none !important; }*/
 
   .nav-open .navbar-collapse {
     -webkit-transform: translate3d(0px, 0, 0);

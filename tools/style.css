@@ -5,7 +5,22 @@
   font-family: 'Lobster Two', cursive;
   font-size: 36px;
   color: darkorange;
+
 }
+.title a:link{
+  color: darkorange;
+}
+.title a:visited{
+  color: darkorange;
+}
+.title a:hover{
+  color: darkorange;
+}
+.title a:active{
+  color: darkorange;
+}
+
+
 
 #menud{
   color: darkorange;
