@@ -1095,6 +1095,9 @@
 * {
     box-sizing: border-box;
 }
+.container1 {
+  width: 100%;
+}
 .title{
   font-family: 'Lobster Two', cursive;
   font-size: 36px;
